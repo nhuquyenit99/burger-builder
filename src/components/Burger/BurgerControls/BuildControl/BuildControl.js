@@ -1,6 +1,5 @@
 import React from "react";
 import "./BuildControl.css";
-import buildControls from "../BurgerControls";
 
 const buildControl = (props) => (
   <div className="BuildControl">
